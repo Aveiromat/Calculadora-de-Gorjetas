@@ -1,2 +1,2 @@
 # Calculadora-de-Gorjetas
- Meu primeiro projeto o qual incorpora técnicas em HTML, CSS e JavaScript.
+ Meu primeiro projeto, que incorpora técnicas em HTML, CSS e JavaScript.
