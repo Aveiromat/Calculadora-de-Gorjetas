@@ -1,2 +1,2 @@
 # Calculadora-de-Gorjetas
- Meu primeiro projeto, que incorpora técnicas em HTML, CSS e JavaScript.
+ Meu primeiro projeto é uma calculadora de gorjetas, criada utilizando as linguagens HTML, CSS e JavaScript, com a aplicação de diversas técnicas e recursos dessas tecnologias.
